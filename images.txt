@@ -7,3 +7,4 @@ rabbitmq:latest
 mysql:latest
 mongo:latest
 chainguard/minio:latest
+tedi3231/docker-odoo-10-lightly
