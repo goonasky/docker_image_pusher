@@ -4,7 +4,6 @@ postgres:10.5
 postgres:14.10
 postgres:15.8
 postgres:16.4
-bitnami/postgresql:10.14.0
 apache/rocketmq:latest
 rabbitmq:latest
 mysql:latest
