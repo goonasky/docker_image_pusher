@@ -14,4 +14,4 @@ odoo:17.0
 mariadb:10.6
 bitnami/postgresql:10.14.0
 postgres:10.21
-postgres:10.22
+postgres:10.22-alpine
