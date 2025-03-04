@@ -2,6 +2,7 @@ nginx:latest
 redis:latest
 postgres:10.5
 postgres:14.10
+postgres:14.16
 postgres:15.8
 postgres:16.4
 postgres:17.4
