@@ -19,3 +19,4 @@ bitnami/postgresql:10.14.0
 postgres:10.21
 postgres:10.22-alpine
 emqx:latest
+python:3.11-slim
