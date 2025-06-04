@@ -21,3 +21,4 @@ postgres:10.22-alpine
 emqx:latest
 python:3.11-slim
 tedi3231/docker-odoo-10-lightly:latest
+odoo:18.0-20250520
